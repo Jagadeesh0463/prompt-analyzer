@@ -150,7 +150,9 @@ After completing this project, you will understand:
 * how prompt quality can influence AI results
 
 ---
+## Sample Learning Outcome
 
-## Author
+This project demonstrates how a simple Python utility can support better AI prompt writing.
+
 
 Jagadeesh S
